@@ -6,11 +6,21 @@ Building reliable automation systems and security tooling. Currently focused on 
 
 ## 🔭 Current Focus
 
-- Building SOC-focused homelab (ELK stack processing 200K+ security events)
 - Developing SIGMA detection rules and Python security automation
 - Studying TryHackMe SOC Level 1 path
+- Building portfolio of SOC-focused projects
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### [Enterprise ELK SIEM Deployment](https://github.com/josh-talley/elk-siem-deployment)
+Production-standard SOC infrastructure demonstrating hands-on security operations:
+- **200K+ security events processed** across 4 data streams
+- ECS-compliant structured logging with intelligent event classification
+- Custom detection rules and dashboards for threat hunting
+- Session correlation with UUID tracking for incident investigation
+- TLS encryption, certificate-based auth, zero-trust networking
+
+**Skills demonstrated:** SIEM deployment, log analysis, threat detection, security architecture, incident response
 
 ### [Pharmaceutical Compliance Automation](https://github.com/josh-talley/pharmaceutical-automation)
 Production-grade Python systems demonstrating reliability engineering patterns:
