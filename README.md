@@ -37,16 +37,13 @@ Production-grade Python systems demonstrating reliability engineering patterns:
 **Skills demonstrated:** Python OOP, SQLAlchemy, multi-threading, data validation, production reliability
 
 ## 🛠️ Tech Stack
-**OS**: Linux • Mac • Windows
-**Languages:** Python • SQL • Bash • HTML
-**Security:** ELK Stack • SIGMA • SIEM • Log Analysis
-**Data:** SQLAlchemy • pandas • SQLite • xlwings • pyinstaller
-**Tools:** PyQt5 • Git • Chezmoi
-
-<br clear="left"/>
+- **OS**: Linux • Mac • Windows
+- **Languages:** Python • SQL • Bash • HTML
+- **Security:** ELK Stack • SIGMA • SIEM • Log Analysis
+- **Data:** SQLAlchemy • pandas • SQLite • xlwings • pyinstaller
+- **Tools:** PyQt5 • Git • Chezmoi
 
 ## 📫 Connect
-
 - **Email:** josh@joshtalley.com
 - **LinkedIn:** [linkedin.com/in/josh-talley](https://linkedin.com/in/josh-talley)
 - **Location:** Huntsville, AL
