@@ -1,14 +1,19 @@
-# Joshua J. Talley
+# Josh Talley
 
-**Security+ Certified Python Developer | Transitioning to SOC Operations**
+**Security+ Certified Python Developer • Passionate about Privacy • Seeking SOC Analyst Roles • Past Life: Music Manager**
 
-Building reliable automation systems and security tooling. Currently focused on SOC Analyst roles where I can apply reliability engineering and validation skills to security operations.
+## 📜 Certifications
+
+<img src="security-plus-logo.png" alt="CompTIA Security+" height="80" align="left" style="margin-right: 20px;"/>
+
+- **CompTIA Security+** (October 2025)
+- **PCEP** - Certified Entry-Level Python Programmer (July 2023)
 
 ## 🔭 Current Focus
 
-- Developing SIGMA detection rules and Python security automation
-- Studying TryHackMe SOC Level 1 path
+- Refining ELK Stack for my workspace
 - Building portfolio of SOC-focused projects
+- Studying TryHackMe SOC Level 1 path
 
 ## 🚀 Featured Projects
 
@@ -31,30 +36,19 @@ Production-grade Python systems demonstrating reliability engineering patterns:
 
 **Skills demonstrated:** Python OOP, SQLAlchemy, multi-threading, data validation, production reliability
 
-*Additional security-focused projects coming soon: SIGMA detection rules, Python alert enrichment, Python incident response automation.*
-
 ## 🛠️ Tech Stack
-
-**Languages:** Python, SQL, Bash
-**Security:** ELK Stack, SIGMA, SIEM, Log Analysis
-**Data:** SQLAlchemy, pandas, SQLite
-**Tools:** PyQt5, Git, Linux, Chezmoi
-
-## 📜 Certifications
-
-<img src="security-plus-logo.png" alt="CompTIA Security+" height="80" align="left" style="margin-right: 20px;"/>
-
-- **CompTIA Security+** (October 2025)
-- **PCEP** - Certified Entry-Level Python Programmer (July 2023)
+**OS**: Linux • Mac • Windows
+**Languages:** Python • SQL • Bash • HTML
+**Security:** ELK Stack • SIGMA • SIEM • Log Analysis
+**Data:** SQLAlchemy • pandas • SQLite • xlwings • pyinstaller
+**Tools:** PyQt5 • Git • Chezmoi
 
 <br clear="left"/>
 
 ## 📫 Connect
 
-- 📧 Email: josh@joshtalley.com
-- 💼 LinkedIn: [linkedin.com/in/josh-talley](https://linkedin.com/in/josh-talley)
-- 🌐 Location: Huntsville, AL
+- **Email:** josh@joshtalley.com
+- **LinkedIn:** [linkedin.com/in/josh-talley](https://linkedin.com/in/josh-talley)
+- **Location:** Huntsville, AL
 
 ---
-
-*Seeking SOC Analyst Tier 1 roles where I can apply automation, validation, and reliability engineering skills to security operations.*
