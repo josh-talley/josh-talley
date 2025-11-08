@@ -1,13 +1,15 @@
 # Josh Talley
 
-**Security+ Certified Python Developer • Passionate about Privacy • Seeking SOC Analyst Roles • Past Life: Music Manager**
+**Security+ Python Developer • Privacy Advocate • Seeking SOC Analyst Roles • Former Music Manager**
 
 ## 📜 Certifications
 
 <img src="security-plus-logo.png" alt="CompTIA Security+" height="80" align="left" style="margin-right: 20px;"/>
 
 - **CompTIA Security+** (October 2025)
-- **PCEP** - Certified Entry-Level Python Programmer (July 2023)
+- **PCEP** - Certified Entry-Level Python Programmer (July 2023) 
+
+<br clear="left"/>
 
 ## 🔭 Current Focus
 
