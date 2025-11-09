@@ -1,1 +1,42 @@
+# Security-sensitive files
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets.yaml
+config.local.*
+
+# IDE and editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Development tools
 .claude/
+*.log
+*.sqlite
+*.db
+.coverage
+htmlcov/
+
+# OS files
+Thumbs.db
+.Spotlight-V100
+.Trashes
