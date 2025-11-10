@@ -31,7 +31,7 @@ Production-standard SOC infrastructure demonstrating hands-on security operation
 
 ### [Pharmaceutical Compliance Automation](https://github.com/josh-talley/pharmaceutical-automation)
 Production-grade Python systems demonstrating reliability engineering patterns:
-- **1+ years zero-error runtime** processing 80,000+ transactions
+- **1+ years zero-error runtime** processing 20,000+ transactions
 - Multi-layer validation system (100% catch rate for data quality issues)
 - Worker thread patterns for responsive GUI
 - Context manager pattern for transaction safety
