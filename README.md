@@ -21,7 +21,7 @@
 
 ### [Enterprise ELK SIEM Deployment](https://github.com/josh-talley/elk-siem-deployment)
 Production-standard SOC infrastructure demonstrating hands-on security operations:
-- **2.2M+ security events processed** across 4 data streams
+- **~2M+ security events processed** across 4 data streams
 - ECS-compliant structured logging with intelligent event classification
 - Custom detection rules and dashboards for threat hunting
 - Session correlation with UUID tracking for incident investigation
