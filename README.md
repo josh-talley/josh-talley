@@ -7,6 +7,7 @@
 <img src="security-plus-logo.png" alt="CompTIA Security+" height="80" align="left" style="margin-right: 20px;"/>
 
 - **CompTIA Security+** (October 2025)
+- **TryHackMe Pre-Security** (March 2025)
 - **PCEP** - Certified Entry-Level Python Programmer (July 2023) 
 
 <br clear="left"/>
@@ -23,7 +24,7 @@
 Production-standard SOC infrastructure demonstrating hands-on security operations:
 - **~2M+ security events processed** across 4 data streams
 - ECS-compliant structured logging with intelligent event classification
-- Custom detection rules and dashboards for threat hunting
+- Custom detection rules mapped to MITRE ATT&CK for threat hunting
 - Session correlation with UUID tracking for incident investigation
 - TLS encryption, certificate-based auth, zero-trust networking
 
@@ -41,7 +42,7 @@ Production-grade Python systems demonstrating reliability engineering patterns:
 ## 🛠️ Tech Stack
 - **OS**: Linux • Mac • Windows
 - **Languages:** Python • SQL • Bash • HTML
-- **Security:** ELK Stack • SIGMA • SIEM • Log Analysis
+- **Security:** ELK Stack • MITRE ATT&CK • SIGMA • SIEM • Log Analysis
 - **Data:** SQLAlchemy • pandas • SQLite • xlwings • pyinstaller
 - **Tools:** PyQt5 • Git • Chezmoi
 
