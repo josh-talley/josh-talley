@@ -14,21 +14,21 @@
 
 ## 🔭 Current Focus
 
-- Refining ELK Stack for my workspace
-- Building portfolio of SOC-focused projects
+- Writing Sigma detection rules for production SIEM
 - Studying TryHackMe SOC Level 1 path
+- Expanding threat detection coverage
 
 ## 🚀 Featured Projects
 
 ### [Enterprise ELK SIEM Deployment](https://github.com/josh-talley/elk-siem-deployment)
-Production-standard SOC infrastructure demonstrating hands-on security operations:
-- **~2M+ security events processed** across 4 data streams
-- ECS-compliant structured logging with intelligent event classification
-- Custom detection rules mapped to MITRE ATT&CK for threat hunting
-- Session correlation with UUID tracking for incident investigation
-- TLS encryption, certificate-based auth, zero-trust networking
+Production SOC with active threat detection:
+- **5 Sigma detection rules** catching real attacks (SSH brute force, port scans, credential stuffing)
+- **~2M security events** processed with 95% noise reduction
+- Custom Python CLI for detection rule deployment
+- MITRE ATT&CK mapped alerting via Kibana Detection Engine
+- 5 dashboards with real-time security monitoring
 
-**Skills demonstrated:** SIEM deployment, log analysis, threat detection, security architecture, incident response
+**Skills demonstrated:** Detection engineering, SIEM operations, Python automation, log analysis, threat detection
 
 ### [Pharmaceutical Compliance Automation](https://github.com/josh-talley/pharmaceutical-automation)
 Production-grade Python systems demonstrating reliability engineering patterns:
@@ -42,7 +42,7 @@ Production-grade Python systems demonstrating reliability engineering patterns:
 ## 🛠️ Tech Stack
 - **OS**: Linux • Mac • Windows
 - **Languages:** Python • SQL • Bash • HTML
-- **Security:** ELK Stack • MITRE ATT&CK • SIGMA • SIEM • Log Analysis
+- **Security:** ELK Stack • Sigma Rules • MITRE ATT&CK • Detection Engineering • Log Analysis
 - **Data:** SQLAlchemy • pandas • SQLite • xlwings • pyinstaller
 - **Tools:** PyQt5 • Git • Chezmoi
 
