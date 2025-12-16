@@ -1,6 +1,6 @@
 # Josh Talley
 
-**Security+ Python Developer • Privacy Advocate • Seeking SOC Analyst Roles • Former Music Manager**
+**Security+ Python Developer • Seeking SOC Analyst Roles • Former Music Manager**
 
 ## 📜 Certifications
 
@@ -22,7 +22,7 @@
 
 ### [Enterprise ELK SIEM Deployment](https://github.com/josh-talley/elk-siem-deployment)
 Production SOC with active threat detection:
-- **5 Sigma detection rules** catching real attacks (SSH brute force, port scans, credential stuffing)
+- **10 Sigma detection rules** catching real attacks (SSH brute force, port scans, credential stuffing)
 - **~2M security events** processed with 95% noise reduction
 - Custom Python CLI for detection rule deployment
 - MITRE ATT&CK mapped alerting via Kibana Detection Engine
