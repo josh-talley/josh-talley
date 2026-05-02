@@ -21,7 +21,7 @@
 
 ### [Sigma Studio v2.0 + Enterprise ELK SIEM](https://github.com/josh-talley/sigma-studio-elk)
 Enterprise detection engineering platform built on a production ELK SIEM:
-- **25 detection rules** across 2 deployed SIEMs (Elastic + Splunk) with 3 additional conversion backends
+- **30+ detection rules** across 2 deployed SIEMs (Elastic + Splunk) with 3 additional conversion backends
 - **~8M security events** processed with zero pipeline failures
 - **7 query languages** (Lucene, ES|QL, EQL, SPL, KQL, YARA-L, LogScale QL)
 - Full lifecycle CLI: Discover, Convert, Deploy, Tune
