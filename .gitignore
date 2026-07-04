@@ -29,7 +29,6 @@ dist/
 build/
 
 # Development tools
-.claude/
 *.log
 *.sqlite
 *.db
