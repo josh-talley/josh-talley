@@ -25,7 +25,6 @@
 ### [Sigma Studio v2.0 + ELK SIEM](https://github.com/josh-talley/sigma-studio-elk)
 Independent Security Lab, 2025 to 2026. Detection engineering platform built on a homelab ELK SIEM (v2.0, March 2026):
 - **30 custom Sigma rules** deployed across 2 SIEMs (Elastic and Splunk), with 3 additional conversion backends
-- **~8M security events** processed with zero pipeline failures
 - **5 backends, 7 query languages** (Lucene, ES|QL, EQL, SPL, KQL, YARA-L, LogScale QL)
 - Full lifecycle CLI: Discover, Convert, Deploy, Tune
 - 28 MITRE ATT&CK techniques across 10 tactics
