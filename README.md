@@ -1,43 +1,39 @@
 # Josh Talley
 
-**Security+ Certified | Detection Engineering | Python Automation**
+**SOC Analyst | Detection Engineering | Python**
 
 ## Certifications
 
 <img src="security-plus-logo.png" alt="CompTIA Security+" height="80" align="left" style="margin-right: 20px;"/>
 
+- **Certified Detection Engineering Associate (CDEA)**, Centri - in progress
 - **CompTIA Security+** (October 2025)
+- **TryHackMe Pre-Security** (March 2025)
 - **PCEP** - Certified Entry-Level Python Programmer (July 2023)
 
 <br clear="left"/>
 
-## Current Focus
+## Now
 
-- Multi-SIEM detection engineering with Sigma Studio
-- Writing and deploying custom Sigma detection rules across Elastic and Splunk
-- Expanding MITRE ATT&CK coverage with correlation and temporal rules
+- Security+ certified SOC analyst in a 24/7 MDR environment
+- Completing the CDEA from Centri (formerly Security Blue Team)
+- Rebuilding the homelab on Proxmox VE; the ELK SIEM restores from captured index templates, pipelines, and saved objects
+- Next up: detection engineering projects built on the CDEA coursework
 
-## Featured Projects
+## Featured Project
 
-### [Sigma Studio v2.0 + Enterprise ELK SIEM](https://github.com/josh-talley/sigma-studio-elk)
-Enterprise detection engineering platform built on a production ELK SIEM:
-- **30+ detection rules** across 2 deployed SIEMs (Elastic + Splunk) with 3 additional conversion backends
+### [Sigma Studio v2.0 + ELK SIEM](https://github.com/josh-talley/sigma-studio-elk)
+Independent Security Lab, 2025 to 2026. Detection engineering platform built on a homelab ELK SIEM (v2.0, March 2026):
+- **30 custom Sigma rules** deployed across 2 SIEMs (Elastic and Splunk), with 3 additional conversion backends
 - **~8M security events** processed with zero pipeline failures
-- **7 query languages** (Lucene, ES|QL, EQL, SPL, KQL, YARA-L, LogScale QL)
+- **5 backends, 7 query languages** (Lucene, ES|QL, EQL, SPL, KQL, YARA-L, LogScale QL)
 - Full lifecycle CLI: Discover, Convert, Deploy, Tune
-- 18 MITRE ATT&CK techniques across 9 tactics
+- 28 MITRE ATT&CK techniques across 10 tactics
+- Diagnosed an IPv6 parsing gap that was silently dropping 28% of firewall events from detection coverage
 - Correlation rules, overlay tuning, client-scoped configuration
+- [Case study](https://github.com/josh-talley/sigma-studio-elk/tree/main/correlation-case-study): a false-negative gap in pySigma's Elasticsearch correlation backend, validated with controlled A/B testing
 
 **Skills demonstrated:** Detection engineering, multi-SIEM architecture, Python automation, pySigma pipelines, API integration, data engineering
-
-### [Pharmaceutical Compliance Automation](https://github.com/josh-talley/pharmaceutical-automation)
-Production-grade Python systems demonstrating reliability engineering patterns:
-- **1+ years zero-error runtime** processing 20,000+ transactions
-- Multi-layer validation system (100% catch rate for data quality issues)
-- Worker thread patterns for responsive GUI
-- Context manager pattern for transaction safety
-
-**Skills demonstrated:** Python OOP, SQLAlchemy, multi-threading, data validation, production reliability
 
 ## Tech Stack
 - **OS**: Linux | Mac | Windows
@@ -45,11 +41,10 @@ Production-grade Python systems demonstrating reliability engineering patterns:
 - **Security:** ELK Stack | Splunk | Sigma / pySigma | MITRE ATT&CK | Detection Engineering
 - **Data:** PostgreSQL | DuckDB | pandas | SQLAlchemy
 - **APIs:** Kibana Detection Engine | Splunk REST API
-- **Tools:** Git | Docker | Tailscale | Azure
+- **Tools:** Git | Docker | Proxmox VE | Tailscale | Azure
 
 ## Connect
 - **Email:** josh@joshtalley.com
 - **LinkedIn:** [linkedin.com/in/josh-talley](https://linkedin.com/in/josh-talley)
-- **Location:** Huntsville, AL
 
 ---
