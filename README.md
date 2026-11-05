@@ -4,8 +4,8 @@
 
 ## Certifications
 
-<img src="cdea-badge.png" alt="Certified Detection Engineering Associate (CDEA)" height="80" align="left"/>
-<img src="security-plus-logo.png" alt="CompTIA Security+" height="80" align="left" style="margin-right: 20px;"/>
+<a href="https://www.credly.com/badges/745d7278-e2d3-4fb1-a4d8-21bde3696977/public_url"><img src="cdea-badge.png" alt="Certified Detection Engineering Associate (CDEA)" height="80" align="left"/></a>
+<a href="https://www.credly.com/badges/6de24c01-8ab2-4a4e-aa84-3ca6e0b828de/public_url"><img src="security-plus-logo.png" alt="CompTIA Security+" height="80" align="left" style="margin-right: 20px;"/></a>
 
 - **Certified Detection Engineering Associate (CDEA)**, Centri (November 2026)
 - **CompTIA Security+** (October 2025)
