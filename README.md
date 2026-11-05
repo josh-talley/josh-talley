@@ -1,12 +1,13 @@
 # Josh Talley
 
-**SOC Analyst | Detection Engineering | Python**
+**SOC Analyst | Detection Engineering (CDEA) | Python**
 
 ## Certifications
 
+<img src="cdea-badge.png" alt="Certified Detection Engineering Associate (CDEA)" height="80" align="left"/>
 <img src="security-plus-logo.png" alt="CompTIA Security+" height="80" align="left" style="margin-right: 20px;"/>
 
-- **Certified Detection Engineering Associate (CDEA)**, Centri - in progress
+- **Certified Detection Engineering Associate (CDEA)**, Centri (November 2026)
 - **CompTIA Security+** (October 2025)
 - **TryHackMe Pre-Security** (March 2025)
 - **PCEP** - Certified Entry-Level Python Programmer (July 2023)
@@ -15,8 +16,8 @@
 
 ## Now
 
-- Security+ certified SOC analyst in a 24/7 MDR environment
-- Completing the CDEA from Centri (formerly Security Blue Team)
+- SOC analyst in a 24/7 MDR environment, CDEA and Security+ certified
+- Earned the CDEA from Centri (formerly Security Blue Team) in November 2026, on a 24-hour practical detection engineering exam
 - Rebuilding the homelab on Proxmox VE; the ELK SIEM restores from captured index templates, pipelines, and saved objects
 - Next up: detection engineering projects built on the CDEA coursework
 
